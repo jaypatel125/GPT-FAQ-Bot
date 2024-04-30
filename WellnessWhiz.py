@@ -8,7 +8,7 @@ from builtins import print
 from openai import OpenAI
 
 # API key for OpenAI services
-api_key = "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"
+api_key = "--api key--"
 
 # Creating a client object for accessing OpenAI services
 client = OpenAI(api_key=api_key)
