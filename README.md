@@ -23,7 +23,7 @@ To get started with WellnessWhiz on your Discord server, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/jaypatel125/GPT-FAQ-Bot
+    git clone https://github.com/jaypatel125/GPT-FAQ-Bot.git
     ```
 
 2. Install the required dependencies using pip:
@@ -48,7 +48,10 @@ Before running the bot, make sure to configure the following:
 
 - **OpenAI API Key**: Obtain your OpenAI API key and set it as an environment variable or directly in the code.
 
+## Acknowledgements
 
+- Built using Python and OpenAI services.
+  
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
