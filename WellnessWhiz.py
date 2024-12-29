@@ -1,5 +1,4 @@
 """
-Authorship Statement: I Jay Patel, 000881881 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else.
 Date: 15 March 2024
 Description: A chatbot that provides information on diet, health, and wellness using OpenAI services.
 """
